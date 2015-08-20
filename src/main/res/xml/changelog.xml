@@ -16,6 +16,20 @@
 
 <changelog>
 
+    <version name="4.4.0">
+        <text>Revamp of Android Wear app</text>
+        <text>Support for favoriting and retweeting statuses from Android Wear</text>
+        <text>Direct Messages no longer have a character limit</text>
+        <text>Don't stream blocked users through Talon Pull</text>
+        <text>Bug fixes for direct messages</text>
+        <text>Update application dependencies</text>
+    </version>
+
+    <version name="4.3.5">
+        <text>Some text improvements</text>
+        <text>Various Bug fixes</text>
+    </version>
+
     <version name="4.3.4">
         <text>Option to disable Talon Pull notification. Read disclaimer on setting. Use extreme caution.</text>
         <text>Notification of quoted tweets when using talon pull</text>
